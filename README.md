@@ -1,1 +1,2 @@
-# exploring_health_loggin
+# Exploring health data from a mobile app
+
