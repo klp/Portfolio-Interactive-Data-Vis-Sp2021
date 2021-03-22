@@ -2,7 +2,7 @@
 
 ### Purpose
 
-This project will visualize health data logged from the users of a mobile app called [One Drop](https://onedrop.today/). Users of the visualizations should be able to explore the data in order to reveal patterns in logging behaviors, and provide several portraits of the population of app users. The visualization should be able to provide tools for navigating several categorical variables including mobile OS, passive vs. active data collection, data source (CGM, meter, data provider integration), diagnosis type, etc.
+This project will visualize health data logged from the users of a mobile app called [One Drop](https://onedrop.today/). Users of the visualizations should be able to explore the data in order to reveal patterns in logging behaviors, and provide several portraits of the population of app users. The visualization should be able to provide tools for navigating several categorical variables including logging types, mobile OS, passive vs. active data collection, data source (CGM, meter, data provider integration), diagnosis type, etc.
 
 ### Audience(s)
 
@@ -31,4 +31,8 @@ Although explicit approval has been granted by legal, policy and security depart
 Discussions are underway as to how best to obfuscate personal identifying fields in the data. Deidentifying strategies may include preprocessing the source data before analysis, or even fetching data from an API in a secure way, which is in keeping with current architectural design. 
 
 ### Initial sketches
+
+![different_healthlogging_types](https://user-images.githubusercontent.com/603858/112036050-93ca9280-8b16-11eb-80fe-34aed636f29e.png)
+
+![bloodGlucoseTimeInRange](https://user-images.githubusercontent.com/603858/112036060-962cec80-8b16-11eb-800e-6ead7aa26a58.png)
 
